@@ -1,4 +1,4 @@
-#beat em up
+# beat em up
 
 This is a small 2d beat em up game demo project to serve as a "guideline" for me to write my next game programming course material from.
 
